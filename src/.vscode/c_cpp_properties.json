@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/zhang/下载/RoboDetect/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/zhang/下载/RoboDetect/src/robotcamera/include/**",
+        "/home/zhang/下载/RoboDetect/src/robotdetect/include/**",
+        "/home/zhang/下载/RoboDetect/src/robottrack/include/**",
+        "/home/zhang/下载/RoboDetect/src/sentry_serial/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

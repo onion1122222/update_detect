@@ -1,0 +1,8 @@
+prefix=/home/zhang/下载/RoboDetect/devel
+
+Name: robotdetect
+Description: Description of robotdetect
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

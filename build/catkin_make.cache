@@ -1,0 +1,2 @@
+robotcamera:robotdetect:robotinterfaces:robotmaster:robotparams:robottrack:sentry_serial
+-DCATKIN_DEVEL_PREFIX=/home/zhang/下载/RoboDetect/devel -DCMAKE_INSTALL_PREFIX=/home/zhang/下载/RoboDetect/install -G Unix Makefiles

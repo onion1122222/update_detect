@@ -1,0 +1,8 @@
+\subsubsection usage Usage
+\verbatim
+<node name="dynamictools" pkg="robotparams" type="dynamictools">
+  <param name="ExposureTime" type="int" value="10000" />
+  <param name="Gain" type="double" value="10.0" />
+</node>
+\endverbatim
+

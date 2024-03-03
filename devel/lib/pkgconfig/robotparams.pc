@@ -1,0 +1,8 @@
+prefix=/home/zhang/下载/RoboDetect/devel
+
+Name: robotparams
+Description: Description of robotparams
+Version: 0.0.0
+Cflags: -I/home/zhang/下载/RoboDetect/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
